@@ -1,6 +1,6 @@
 # brewcrew
 
-A new Flutter application.
+Create your own brew
 
 ## Getting Started
 
